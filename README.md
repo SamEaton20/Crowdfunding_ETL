@@ -5,6 +5,8 @@ Performed an ETL process for a crowdfunding data set using Pandas, Python, and S
 -  crowdfunding.xlsx
 -  contacts.xlsx
 # Crowdfunding.xlsx
+Import excel spreadsheet
+
 First from the crowdfunding.xlsx
 - Split the category&subcategory into category and subcategory
     - Category having 9 distinct values
