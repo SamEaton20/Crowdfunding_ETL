@@ -1,5 +1,9 @@
 # Project_2
-# Create the Category and Subcategory Dataframes
-# Create the Campaign Dataframe
-# Create the Contacts Dataframe
-# Create the Campaign Database
+# Crowdfunding_ETL
+Performed an ETL process for a crowdfunding data set using Pandas, Python, and SQL.
+# Resources
+crowdfunding.xlsx 
+contacts.xlsx
+# Crowdfunding
+First from the crowdfunding.xlsx
+  Split the 
