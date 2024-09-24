@@ -1,4 +1,4 @@
-# Project_2
+# Project_2 Group 2 Kowsar, Viktor, Samantha
 # Crowdfunding_ETL
 Performed an ETL process for a crowdfunding data set using Pandas, Python, and SQL.
 # Resources
