@@ -2,8 +2,8 @@
 # Crowdfunding_ETL
 Performed an ETL process for a crowdfunding data set using Pandas, Python, and SQL.
 # Resources
-crowdfunding.xlsx 
-contacts.xlsx
+-crowdfunding.xlsx 
+-contacts.xlsx
 # Crowdfunding.xlsx
 First from the crowdfunding.xlsx
   Split the category&subcategory into category and subcategory
