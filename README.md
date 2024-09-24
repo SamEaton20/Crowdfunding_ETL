@@ -7,9 +7,12 @@ Performed an ETL process for a crowdfunding data set using Pandas, Python, and S
 -contacts.xlsx
 # Crowdfunding.xlsx
 First from the crowdfunding.xlsx
+
   Split the category&subcategory into category and subcategory
+  
     Category having 9 distinct values
     Subcategory having 24 distinct values
+    
   Then export both category and subcategory into separate CSV files.
 Second from crowdfunding.xlsx
   Create a campaign dataframe with these different columns
